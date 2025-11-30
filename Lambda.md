@@ -7,3 +7,4 @@ Pay model: Pay per run, means if it runs for 200 ms then you will need to pay fo
 At the backend the service and code we give runs on very light weight machine using firefly which is aws internal technology.
 
 AWS lambda logs can be monitored very simply using cloudwatch
+
