@@ -1,3 +1,6 @@
+<img width="564" height="849" alt="image" src="https://github.com/user-attachments/assets/dbe99031-6b9c-4e7c-91b7-0e8dea9a57a7" />
+
+
 1) Create s3 bucket
    manjiri@Abhis-MacBook-Pro ~ % aws s3api create-bucket \
     --bucket assignment-demo-s3bucket \
