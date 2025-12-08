@@ -1,5 +1,9 @@
 AWS VPC
 
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/4c8d1880-f038-4557-b51f-293d4c10d0fe" />
+
+
+
 1) What is VPC and why it is used?
 -> stands for virtual private cloud it allows you to launch aws resources in logically isolated section of AWS cloud. It provides greater control over networking env influding VPC, subnets, routinh tales making it ideal for creating private and secure networks in cloud.
 
